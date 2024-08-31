@@ -1,4 +1,4 @@
-wordcloud==1.9.2
+wordcloud
 streamlit>=0.82.0
 pandas>=1.2.0
 numpy>=1.19.5
